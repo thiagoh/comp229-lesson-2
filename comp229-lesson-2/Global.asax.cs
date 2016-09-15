@@ -11,6 +11,7 @@ namespace comp229_lesson_2
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+
         }
     }
 }
