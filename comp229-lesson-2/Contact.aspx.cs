@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace comp229_lesson_2 {
-    public partial class Default : System.Web.UI.Page {
+    public partial class Contact : System.Web.UI.Page {
         protected void Page_Load(object sender, EventArgs e) {
 
         }

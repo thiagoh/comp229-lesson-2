@@ -10,6 +10,6 @@
 namespace comp229_lesson_2 {
 
 
-    public partial class Default {
+    public partial class Contact {
     }
 }
