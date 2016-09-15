@@ -11,11 +11,10 @@
 
         <div class="row">
 
-            <div class="col-md-offset-4 col-md-6 col-xs-offset-4 col-xs-6">
-
+            <div class="jumbotron">
                 <h1>Hello World</h1>
-
                 <h3><%=TestMe.stringLabel + ": " + TestMe.getRandomValue() %></h3>
+                <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
             </div>
 
         </div>
